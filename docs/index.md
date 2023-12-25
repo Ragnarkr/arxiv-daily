@@ -1577,6 +1577,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-22**|**PoseGen: Learning to Generate 3D Human Pose Dataset with NeRF**|Mohsen Gholami et.al.|[2312.14915](http://arxiv.org/abs/2312.14915)|null|
+|**2023-12-22**|**Density Uncertainty Quantification with NeRF-Ensembles: Impact of Data and Scene Constraints**|Miriam Jäger et.al.|[2312.14664](http://arxiv.org/abs/2312.14664)|null|
+|**2023-12-21**|**PlatoNeRF: 3D Reconstruction in Plato's Cave via Single-View Two-Bounce Lidar**|Tzofi Klinghoffer et.al.|[2312.14239](http://arxiv.org/abs/2312.14239)|null|
 |**2023-12-21**|**Virtual Pets: Animatable Animal Generation in 3D Scenes**|Yen-Chi Cheng et.al.|[2312.14154](http://arxiv.org/abs/2312.14154)|null|
 |**2023-12-21**|**Carve3D: Improving Multi-view Reconstruction Consistency for Diffusion Models with RL Finetuning**|Desai Xie et.al.|[2312.13980](http://arxiv.org/abs/2312.13980)|null|
 |**2023-12-21**|**SyncDreamer for 3D Reconstruction of Endangered Animal Species with NeRF and NeuS**|Ahmet Haydar Ornek et.al.|[2312.13832](http://arxiv.org/abs/2312.13832)|null|
